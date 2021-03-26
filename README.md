@@ -1,2 +1,2 @@
-# Thelas.network
-Thelas.network web
+# Thales.network
+Thales.network web
